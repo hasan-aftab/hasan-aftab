@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Me:
 - 🔭 Laravel developer with expertise in Livewire and React.
 - 🌱 Passionate about building dynamic web applications.
 - 👯 Always ready to learn and explore new technologies.
