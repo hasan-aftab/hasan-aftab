@@ -3,7 +3,7 @@
 - 🌱 Passionate about building dynamic web applications.
 - 👯 Always ready to learn & explore new technologies.
 - 🤔 Addicted to solve complex problems with clean & maintainable code.
-- ⚡ Always exploring new technologies & improving development workflows.
+- ⚡ Always exploring new technologies and improving development workflows.
 
 ## 🌐 Socials:
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)
