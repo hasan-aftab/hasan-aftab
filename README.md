@@ -14,29 +14,6 @@
 
 ## 🧑‍💻 About Me
 
-```php
-<?php
-
-namespace App\Developer;
-
-class HasanAftab extends Developer
-{
-    public string $name     = 'Hasan Aftab';
-    public string $role     = 'Full-Stack Laravel Developer';
-    public array  $skills   = ['Laravel', 'Livewire', 'Alpine.js', 'React', 'PHP', 'JavaScript'];
-
-    public function currentFocus(): string
-    {
-        return 'Building dynamic, real-time web apps with the TALL stack';
-    }
-
-    public function motto(): string
-    {
-        return 'Write clean code. Solve hard problems. Never stop learning.';
-    }
-}
-```
-
 - 🔭 **Laravel developer** with deep expertise in **Livewire, Alpine.js & React**
 - 🌱 Passionate about building **dynamic, real-time web applications**
 - 🧩 Addicted to solving **complex problems** with clean & maintainable code
@@ -91,38 +68,10 @@ class HasanAftab extends Developer
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasan-aftab&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan-aftab&bg_color=0d1117&color=c9d1d9&line=ff6e00&point=ffffff&area=true&area_color=ff6e0030&hide_border=true" width="98%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hasan-aftab/hasan-aftab/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasan-aftab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-aftab)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
 </div>
 
 ---
