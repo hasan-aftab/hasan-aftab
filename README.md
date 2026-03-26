@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff6e00&height=220&section=header&text=Hasan%20Aftab&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Laravel%20Developer%20%7C%20Crafting%20Dynamic%20Web%20Experiences&descAlignY=55&descSize=16&descColor=c9d1d9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff6e00&height=220&section=header&text=Hasan%20Aftab&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full+Stack+Laravel+|+NextJS+Developer&descAlignY=55&descSize=15&descColor=c9d1d9" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
