@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6E00&center=true&vCenter=true&random=false&width=600&lines=Laravel+%2B+Livewire+%2B+Alpine.js+%2B+React;Building+Scalable+Web+Applications;Clean+Code+%E2%80%A2+Smart+Solutions;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6E00&center=true&vCenter=true&random=false&width=750&lines=Laravel+%2B+Livewire+%2B+Next.js+%2B+React.js+%2B+Alpine.js;Building+Scalable+Web+Applications;Clean+Code+%E2%80%A2+Smart+Solutions;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 **Laravel developer** with deep expertise in **Livewire, Alpine.js & React**
+- 🔭 **Full-stack developer** with deep expertise in **Laravel, Livewire, Next.js & React**
 - 🌱 Passionate about building **dynamic, real-time web applications**
 - 🧩 Addicted to solving **complex problems** with clean & maintainable code
 - ⚡ Always exploring **new technologies** and improving development workflows
@@ -34,6 +34,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🎨 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
