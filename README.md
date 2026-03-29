@@ -58,7 +58,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasan-aftab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff6e00&icon_color=ff6e00&text_color=c9d1d9&ring_color=ff6e00" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-aftab&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=ff6e00&fire=ff6e00&currStreakLabel=ff6e00&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" width="49%" />
 
 <br/>
