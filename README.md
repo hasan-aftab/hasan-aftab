@@ -12,16 +12,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🔭 **Full-stack developer** with deep expertise in **Laravel, Livewire, Next.js & React**
-- 🌱 Passionate about building **dynamic, real-time web applications**
-- 🧩 Addicted to solving **complex problems** with clean & maintainable code
-- ⚡ Always exploring **new technologies** and improving development workflows
-- 🤝 Open to collaborating on **exciting open-source projects**
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
