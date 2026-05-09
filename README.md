@@ -12,6 +12,16 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-aftab&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=ff6e00&fire=ff6e00&currStreakLabel=ff6e00&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" width="49%" />
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -29,16 +39,6 @@
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-aftab&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=ff6e00&fire=ff6e00&currStreakLabel=ff6e00&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" width="49%" />
 
 </div>
 
