@@ -22,14 +22,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan-aftab&bg_color=0d1117&color=c9d1d9&line=ff6e00&point=ffffff&area=true&area_color=ff6e0030&hide_border=true" width="98%" />
-</div>
-
----
-
 <div align="center">
 
 ### 💡 *"First, solve the problem. Then, write the code."* — John Johnson
